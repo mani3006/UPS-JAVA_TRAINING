@@ -1,0 +1,34 @@
+package ups;
+
+class cons_overloading {
+    String title;
+    double price;
+
+    cons_overloading() {
+        title = "Unknown";
+        price = 0;
+    }
+
+    cons_overloading(String title) {
+        this.title = title;
+        price = 0;
+    }
+
+    cons_overloading(String title, double price) {
+        this.title = title;
+        this.price = price;
+    }
+
+    void display() {
+        System.out.println(title + " - " + price);
+    }
+
+    public static void main(String[] args) {
+    	cons_overloading b1 = new cons_overloading();
+    	cons_overloading b2 = new cons_overloading("Java");
+    	cons_overloading b3 = new cons_overloading("Python", 450);
+        b1.display();
+        b2.display();
+        b3.display();
+    }
+}
