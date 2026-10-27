@@ -174,3 +174,72 @@
 2026-10-22 06:11:47.286: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-22 06:11:47.286: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-10-22 06:25:48.311: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:30:38.527: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:30:38.527: [INFO] Profiles total count: 1
+2026-10-24 14:30:38.527: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:30:38.527: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:30:38.527: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:30:38.527: [INFO] OnDoneLoading sync enabled: 0
+2026-10-24 14:30:38.527: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-24 14:30:38.527: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-24 14:30:38.527: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:31:10.840: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:32:39.629: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:32:39.629: [INFO] Profiles total count: 1
+2026-10-24 14:32:39.629: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:32:39.629: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:32:39.629: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:32:39.629: [INFO] OnDoneLoading sync enabled: 0
+2026-10-24 14:32:39.629: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-24 14:32:39.629: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-24 14:32:39.629: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:32:43.481: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:34:51.016: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:34:51.016: [INFO] Profiles total count: 1
+2026-10-24 14:34:51.016: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:34:51.016: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 14:34:51.016: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 14:34:51.016: [INFO] OnDoneLoading sync enabled: 0
+2026-10-24 14:34:51.016: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-24 14:34:51.016: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-24 14:34:51.016: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 14:35:53.171: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 15:23:19.146: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 15:23:19.146: [INFO] Profiles total count: 1
+2026-10-24 15:23:19.147: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 15:23:19.147: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 15:23:19.147: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 15:23:19.147: [INFO] OnDoneLoading sync enabled: 0
+2026-10-24 15:23:19.147: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-24 15:23:19.147: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-24 15:23:19.147: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 15:27:25.830: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 15:29:29.342: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 15:29:29.342: [INFO] Profiles total count: 1
+2026-10-24 15:29:29.342: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 15:29:29.342: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-24 15:29:29.342: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-24 15:29:29.342: [INFO] OnDoneLoading sync enabled: 0
+2026-10-24 15:29:29.342: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-24 15:29:29.342: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-24 15:29:29.342: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-24 15:30:16.753: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 03:00:03.166: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 03:00:03.166: [INFO] Profiles total count: 1
+2026-10-26 03:00:03.166: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-26 03:00:03.166: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-26 03:00:03.166: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-22T06:15:33.006Z
+2026-10-26 03:00:03.166: [INFO] OnDoneLoading sync enabled: 0
+2026-10-26 03:00:03.166: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-26 03:00:03.166: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-26 03:00:03.166: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-26 06:25:31.609: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-27 02:52:33.488: [INFO] CurrentProfilePath: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 02:52:33.488: [INFO] Profiles total count: 1
+2026-10-27 02:52:33.488: [INFO] Profile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-26T06:12:49.330Z
+2026-10-27 02:52:33.488: [INFO] LastUsedProfileDir: C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-27 02:52:33.488: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\LENOVO\Desktop\UPS JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-26T06:12:49.330Z
+2026-10-27 02:52:33.488: [INFO] OnDoneLoading sync enabled: 0
+2026-10-27 02:52:33.488: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-27 02:52:33.488: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-27 02:52:33.489: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

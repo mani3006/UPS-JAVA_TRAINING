@@ -1,0 +1,8 @@
+========== FINAL BILL ==========
+Onion   : 0.00 kg x Rs.40 = Rs.0.00
+Tomato  : 0.00 kg x Rs.30 = Rs.0.00
+Brinjal : 7.00 kg x Rs.35 = Rs.245.00
+Carrot  : 5.00 kg x Rs.25 = Rs.125.00
+--------------------------------
+TOTAL AMOUNT: Rs.370.00
+Thank you for shopping!

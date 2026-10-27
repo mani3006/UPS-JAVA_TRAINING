@@ -1,0 +1,12 @@
+package project;
+import java.util.Scanner;
+public class supermarket {
+	int tomato = 50;
+	int onion = 100;
+	int paneer = 120;
+	Scanner sc = new Scanner(System.in);
+	System.out.println("=== Select a Vegetable ===");
+	
+	public static void main (String[] args) {
+	}
+}
